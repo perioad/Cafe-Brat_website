@@ -1,0 +1,21 @@
+.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+
+}
+
+.grow img {
+	width: 100%;
+	transition: .5s ease-in-out;
+}
+
+.shrink img {
+	width: 20%;
+	transition: .5s ease-in-out;
+}
+
+h2 {
+	margin-top: 2000px;
+}
+
